@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:background="@android:color/white"
+    >
+
+    <ImageView
+        android:id="@+id/ivCategory"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ic_green_circle" />
+
+    <TextView
+        android:id="@+id/lblName"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="5dp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:lines="3"
+        android:textSize="12sp"
+        android:text="Workaasdfasdfasdf"
+        android:gravity="center_horizontal" />
+
+
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/MacData/Working/MultiPlatform/Rayminder/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cf3eff3a409a3ff30d4cba4bbcce3e85725632b">
+        <dex dex="/Volumes/MacData/Working/MultiPlatform/Rayminder/app/build/intermediates/pre-dexed/debug/classes-a93a4aca25ee8072e0eb507d9804f6d0651f0957.jar" />
+    </item>
+    <item
+        jar="/Users/jhpassion0621/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Volumes/MacData/Working/MultiPlatform/Rayminder/app/build/intermediates/pre-dexed/debug/library-2.4.0-0046a77ec39ec595d68b387a68e04246b1f1eed8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+<resources>
+    <color name="blue">#2F4F75</color>
+    <color name="background">#D3DEE5</color>
+    <color name="red">#d51821</color>
+    <color name="red_sat">#ff4148</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#b5b5b5</color>
+    <color name="transparent">#7c4a4d4f</color>
+
+    <color name="login_edit_bg">#292d35</color>
+    <color name="login_login_button_bg">#2dc0e2</color>
+    <color name="login_signup_button_bg">#034d59</color>
+    <color name="title_bg">#231f20</color>
+    <color name="reminder_cate_bg">#013a47</color>
+    <color name="alert_type_bg">#53abe3</color>
+    <color name="user_list_bg1">#2dc0e2</color>
+    <color name="user_list_bg2">#32cdfc</color>
+    <color name="create_reminder_bg">#3c345c</color>
+    <color name="create_reminder_bg1">#312c4f</color>
+    <color name="create_reminder_bg2">#4a3f70</color>
+    <color name="add_category_bg">#087075</color>
+
+
+
+
+</resources>
